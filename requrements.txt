@@ -1,0 +1,8 @@
+pyttsx3
+time
+json
+argparse
+request
+speechrecognition
+speech_recognition
+
