@@ -112,7 +112,7 @@ if __name__ == "__main__":
     Init_var()
     print("\n\Running!\n\n")
 
-    TTS_control("There is currently no A I Model installed so all input will be mirrored as output.")
+    #TTS_control("There is currently no A I Model installed so all input will be mirrored as output.")
 
 
     if mode == "Discord":
