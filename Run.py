@@ -40,22 +40,13 @@ def get_audio_input():
 
 #AI this bitch
 def gernerate_response():
-    
-    
     TTS_control("look, leave me alone,i have no brain because a certain someone is too lazy to code up a neural network")
-    
-    
-    
     pass
 
 #initailise the default tts
 def Init_TTS():
     global engine
     voice_input = ""
-
-
-
-
     engine = pyttsx3.init()
     engine.setProperty('rate', 180)
     engine.setProperty('volume', 1)
